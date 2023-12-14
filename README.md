@@ -6,7 +6,7 @@
   	<img width="65" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/>&emsp;
 	<img width="65" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" alt="Laravel" title="Laravel"/>&emsp;
 	<img width="65" src="https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png" alt="php" title="php"/>&emsp;
-	<img height="65" src="https://cdn.simpleicons.org/microsoftsqlserver/black/white" alt="MSSQL" title="MSSQL" />
+	<img height="65" src="https://cdn.simpleicons.org/microsoftsqlserver" alt="MSSQL" title="MSSQL" />
 
 </div>
 
